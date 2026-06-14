@@ -5,18 +5,6 @@ Uma página única que mostra quanto de CO₂, água e energia você poupa em um
 ![licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-2e7d32)
 ![React + Vite](https://img.shields.io/badge/React-Vite-0277bd)
 
-## Demo
-
-Adicione o link aqui depois do deploy (GitHub Pages ou Vercel).
-
-## Screenshot
-
-Coloque uma imagem em `docs/screenshot.png` e referencie aqui:
-
-```md
-![Calculadora de Impacto Verde](docs/screenshot.png)
-```
-
 ## Funcionalidades
 
 - Cinco hábitos ajustáveis: km de bike, refeições vegetarianas, kg reciclados, minutos de banho e lâmpadas LED.
